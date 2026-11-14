@@ -1,0 +1,13 @@
+{
+  "current_version": "4.2.0",
+  "mandatory": true,
+  "release_date": "13/11/2026",
+  "download_link": "https://www.mediafire.com/folder/s3pcv7hzmxupm/MOVISUR+Tool+(VIP)+(1)",
+  "change_logs": [
+    "[VIP] Interfaz de usuario renovado.",
+    "[VIP] Payload Puerto MTK, Redmi 14C pond 128gb, con el modelo 256gb puede haber incompatibilidad.",
+    "[VIP] Lectura y escritura de Datos NV MTK, soporta modo root y modo eng firmware, usar modo eng firmware para mayor eficacia.",
+    "[VIP] Correcciones menores."
+  ],
+  "allowed_versions": ["4.2.0", "4.2.0", "4.2.0", "4.2.0", "4.2.0"]
+}
