@@ -9,5 +9,5 @@
     "[VIP] Lectura y escritura de Datos NV MTK, soporta modo root y modo eng firmware, usar modo eng firmware para mayor eficacia.",
     "[VIP] Correcciones menores."
   ],
-  "allowed_versions": ["4.1.0", "4.2.0", "4.0.1", "4.2.0", "4.2.0"]
+  "allowed_versions": ["4.1.0", "4.2.0", "4.0.1", "4.0.2", "4.2.0"]
 }
