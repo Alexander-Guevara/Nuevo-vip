@@ -1,11 +1,11 @@
 {
-  "current_version": "4.2.1",
+  "current_version": "4.3.0",
   "mandatory": true,
-  "release_date": "16/11/2026",
+  "release_date": "22/11/2026",
   "download_link": "https://www.mediafire.com/folder/s3pcv7hzmxupm/MOVISUR+Tool+(VIP)+(1)",
   "change_logs": [
-    "[VIP] Fix Bancos, Yape Método 5 y 6 ahora es compatible con Xiaomi, proceso testeado en qualcomm root.",
+    "[VIP] MOVISUR Root, activa root con 1 click a dispositivos con android 16 y otras versiones, compatibilidad con SAMSUNG y otras marcas.",
     "[VIP] Correcciones menores."
   ],
-  "allowed_versions": ["4.2.1", "4.2.1", "4.2.1", "4.2.1", "4.2.1"]
+  "allowed_versions": ["4.3.0", "4.3.0", "4.3.0"]
 }
